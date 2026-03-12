@@ -1,2 +1,2 @@
 # db_connection.py
-# MySQL connection logic
+# MySQL connection (replaces SQLite)
