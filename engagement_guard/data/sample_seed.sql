@@ -1,0 +1,2 @@
+-- sample_seed.sql
+-- Paste this sample data in MySQL Workbench

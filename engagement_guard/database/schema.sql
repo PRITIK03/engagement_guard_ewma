@@ -1,0 +1,2 @@
+-- schema.sql
+-- Run this first in MySQL Workbench to create all tables
